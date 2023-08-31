@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Vivern0
+- 👀 I’m interested in programming and in future making money on it
+- 🌱 I’m currently learning Python
